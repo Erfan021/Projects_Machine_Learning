@@ -1,2 +1,3 @@
 # Projects_Machine_Learning
-Various Machine Learning projects
+Machine Learning projects based on partcular algorithms of ML.
+NOTE: Projects created by following tutorials.
